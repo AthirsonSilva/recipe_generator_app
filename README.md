@@ -3,6 +3,6 @@ A simple app that generates a random cooking recipe. The project was done with P
 
 
 <div align="center">
-  <img width=450 height=450 src="./assets/front.png">
-  <img width=450 height=450 src="./assets/recipe.png">
+  <img width=300 height=300 src="./assets/front.png">
+  <img width=300 height=300 src="./assets/caraio.png">
 </div>
